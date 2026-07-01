@@ -166,7 +166,7 @@ function outer(){
 const counter= outer();
 counter();
 counter(); 
-*/
+
 
 //event non blocking task sanga use huncha
 fetch("https://jsonplaceholder.typicode.com/photos")
@@ -254,3 +254,5 @@ const parent = (a) => {
 
 const result = parent(10);
 result(20);
+*/
+i am changing 

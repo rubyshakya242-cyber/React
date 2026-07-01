@@ -239,7 +239,7 @@ const parent = () => {
 
 const result = parent(); 
 result();                
-*/
+
 
 const parent = (a) => {
     console.log("Parent");
